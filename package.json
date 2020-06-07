@@ -1,0 +1,26 @@
+{
+  "name": "ecoleta-nlw-starter-rocketseat",
+  "version": "1.0.0",
+  "description": "Ecoleta - NLW - Rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaovitorcheron123/Ecoleta---NLW---Rocketseat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaovitorcheron123/Ecoleta---NLW---Rocketseat/issues"
+  },
+  "homepage": "https://github.com/joaovitorcheron123/Ecoleta---NLW---Rocketseat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
