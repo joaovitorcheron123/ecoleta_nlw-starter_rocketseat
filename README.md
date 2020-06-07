@@ -1,1 +1,1 @@
-Ecoleta - NLW - Rocketseat
+Ecoleta Starter - NLW - Rocketseat
